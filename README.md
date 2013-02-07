@@ -1,0 +1,4 @@
+kamisori
+========
+
+Kamisori Eclipse Plugin
